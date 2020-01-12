@@ -1,4 +1,4 @@
-# FastAI Sklearn Wrapper
+# FastAI Sklearn API
 This project has two goals:
 - Allow me to review the FastAI Syntax
 - Provide an easy interface for those more familiar with Sklearn and Keras style (such as `fit` and `predict` methods). 
@@ -19,6 +19,8 @@ I would like to implement the following learners:
 - `predict(X)`
 - `score(X, y)`
 - `predict_proba(X)`
+- `get_params`: for compatibility with GridSearchCV
+- `set_params`: for compatibility with GridSearchCV
 
 ### New Methods
 I will consider implementing the following methods:
