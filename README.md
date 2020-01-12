@@ -1,7 +1,7 @@
 # FastAI Sklearn Wrapper
 This project has two goals:
 - Allow me to review the FastAI Syntax
-- Provide an easy interface for those more familiar with sklearn and keras style. I am also interested in implementing Keras methods like `fit_generator` for loading files that don't fit in the memory. 
+- Provide an easy interface for those more familiar with Sklearn and Keras style (such as `fit` and `predict` methods). 
 
 ## TODO: Learners:
 I would like to implement the following learners:
